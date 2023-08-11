@@ -1,0 +1,60 @@
+/* carouselStyles.css */
+
+.carousel-slide {
+  width: 100%;
+  /* Use 100% width to fit the container */
+  height: 280px;
+  /* Use 100% height to fit the container */
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+
+.font-bold {
+  font-weight: bold;
+}
+
+.youtube-video {
+  width: 100%;
+  /* Allow the video's natural width */
+  height: 100%;
+  /* Allow the video's natural height */
+  border-radius: 5px;
+  padding: 0;
+  /* position: relative; */
+}
+
+.youtube-video iframe {
+  border-radius: 5px;
+  width: 100%;
+  /* Use 100% width to fit the youtube-video div */
+  height: 100%;
+  /* Use 100% height to fit the youtube-video div */
+}
+
+
+/* Adjust the position of the carousel indicators */
+.carousel .control-dots {
+  position: absolute;
+  bottom: 25px;
+  /* Adjust the position as needed */
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+  z-index: 1;
+}
+
+.carousel .p-carousel-content {
+  transition: transform 0.5s;
+}
+
+.p-reset {
+  /* margin: 0; */
+  padding-top: 10px;
+  border: 0;
+  outline: 0;
+  text-decoration: none;
+  font-size: 100%;
+  list-style: none;
+  height: 5px;
+}
