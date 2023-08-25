@@ -1,0 +1,26 @@
+[
+    {
+        "q": "What is the purpose of a seeder?",
+        "a": "A seeder is used to populate a database with initial or dummy data. It's particularly useful for setting up a consistent starting point for testing and development environments."
+    },
+    {
+        "q": "How do I create and run a seeder?",
+        "a": "To create a seeder, define a script that inserts data into your database. Then, execute the seeder script using a command provided by your framework or database management system."
+    },
+    {
+        "q": "Can seeders be used to update existing data?",
+        "a": "Yes, seeders can be designed to both insert new data and update existing records. This can be useful for scenarios where you need to modify initial data or ensure data consistency."
+    },
+    {
+        "q": "What kind of data can I populate using seeders?",
+        "a": "You can populate various types of data, such as user accounts, sample products, categories, or any other entities that your application requires. Seeders allow you to customize the data you want to generate."
+    },
+    {
+        "q": "Can I automate the seeder execution process?",
+        "a": "Yes, many frameworks and database systems provide tools for automating the execution of seeders. This allows you to quickly and easily populate your database with test data."
+    },
+    {
+        "q": "Is it possible to undo or rollback seeded data?",
+        "a": "Some frameworks and systems offer features to undo or rollback seeded data. This can be helpful for cleaning up test data after testing or reverting back to a clean state."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "q": "What is the purpose of the Faker functionality?",
+        "a": "The Faker functionality generates synthetic or fake data for populating a database. This is useful for testing, development, or scenarios where you need sample data to work with."
+    },
+    {
+        "q": "Can I customize the generated fake data?",
+        "a": "Yes, you can configure various settings to tailor the generated fake data. This includes specifying data types, ranges, and specific fields that you want to populate with fake information."
+    },
+    {
+        "q": "Is the Faker data suitable for production use?",
+        "a": "No, Faker data is not intended for production environments. It's designed to provide realistic-looking data for development and testing purposes only."
+    },
+    {
+        "q": "Can I generate fake data for relationships between entities?",
+        "a": "Yes, you can generate relationships between entities using Faker. For example, you can create relationships between users and their associated posts, orders, or other related data."
+    },
+    {
+        "q": "What happens if I re-run the Faker process?",
+        "a": "Each time you run the Faker process, new fake data is generated and inserted into the database. This is useful for refreshing your test data or creating different scenarios for testing."
+    },
+    {
+        "q": "Are there any limitations to the Faker functionality?",
+        "a": "While Faker is versatile, it's important to note that the generated data is random and may not perfectly mimic real-world scenarios. It's recommended to review and fine-tune the generated data before using it extensively."
+    }
+]

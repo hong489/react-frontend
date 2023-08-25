@@ -1,0 +1,26 @@
+[
+    {
+        "q": "What are data relationships in CodeBridge?",
+        "a": "Data relationships in CodeBridge refer to the connections between different services in your project. They allow you to establish associations and interactions between various sets of data, enhancing the functionality and depth of your application."
+    },
+    {
+        "q": "How do I create data relationships?",
+        "a": "To create data relationships, your project must include at least two services. Within the services, you can define the appropriate fields to establish relationships, such as foreign keys or references. CodeBridge's AI then helps automate the process of linking data."
+    },
+    {
+        "q": "What types of relationships can I establish?",
+        "a": "CodeBridge supports various types of data relationships, including one-to-one, one-to-many, and many-to-many. These relationships allow you to model complex interactions, such as users and their posts, products and categories, or social connections."
+    },
+    {
+        "q": "Can I modify or delete data relationships?",
+        "a": "Yes, you can modify or delete data relationships as your project evolves. Adjust the relationships' configuration, fields, or associations based on your application's requirements. CodeBridge's flexibility empowers you to adapt relationships as needed."
+    },
+    {
+        "q": "How does CodeBridge handle the complexity of data relationships?",
+        "a": "CodeBridge's AI simplifies the process of managing complex data relationships. By analyzing your services' structures, it intelligently generates the necessary code to handle relationships, minimizing manual effort and reducing potential errors."
+    },
+    {
+        "q": "What is the benefit of leveraging data relationships?",
+        "a": "Data relationships amplify the capabilities of your application. They enable you to fetch related data efficiently, create intuitive user experiences, and establish logical connections between different parts of your project."
+    }
+]

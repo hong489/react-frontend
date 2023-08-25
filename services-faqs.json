@@ -1,0 +1,31 @@
+[
+    
+    {
+        "q": "What are components and services in software architecture?",
+        "a": "<p>Components and services are essential elements in software architecture, commonly employed in both frontend and backend systems.</p><p><b>Components:</b></p><p>Components are modular units designed to encapsulate specific functionalities, user interface elements, or distinct features within a software application. They foster code reusability, simplify maintenance, and contribute to a well-structured user interface. In frontend development, components encompass visual elements like buttons, forms, and navigation bars. These elements can be flexibly combined to create intricate user interfaces. In the context of backend development, components may refer to reusable modules responsible for handling specific backend tasks.</p><p><b>Services:</b></p><p>Services are self-contained modules entrusted with executing designated functions or overseeing particular sets of data. They encapsulate business logic, data processing, communication with external systems, and other tasks unrelated to the user interface. In frontend development, services often communicate with APIs to retrieve or transmit data to the backend. In backend development, services oversee data processing, interact with databases, and manage complex application logic.</p><p>In essence, components contribute to the organization and presentation of the user interface, while services manage the core business logic and data manipulation within a software system.</p>"
+    },
+    {
+        "q": "What does the services page allow me to set up?",
+        "a": "The services page enables you to set up various data entities. You can define as many as needed, and there are preset data structures available for importing, such as email, notification, inventory, payroll, and social media."
+    },
+    {
+        "q": "How many data types are available through CodeBridge?",
+        "a": "CodeBridge offers several common data types, including String, Boolean, Array, Object, Number, and Date."
+    },
+    {
+        "q": "Is there a limitation to the number of services I can create?",
+        "a": "You can create as many services as you require for your data fields. Additionally, preset data structures like email, notification, inventory, payroll, and social media are available for import."
+    },
+    {
+        "q": "Can I migrate services from another source or previous settings?",
+        "a": "Currently, we provide preset services like email, notification, inventory, payroll, and social media. Direct migration from external sources or previous settings is not supported."
+    },
+    {
+        "q": "Do I need to establish the database-to-server connection myself?",
+        "a": "No, CodeBridge handles all the necessary actions for you. Your task is to design the UI/UX."
+    },
+    {
+        "q": "Is it possible to reuse components and services in different projects?",
+        "a": "Absolutely. One of the main benefits of using components and services is their reusability. Well-designed components and services can be easily integrated into different projects, saving development time and promoting consistency."
+    }
+]

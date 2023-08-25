@@ -1,0 +1,22 @@
+[
+    {
+        "q": "How does CodeBridge's AI code generator work?",
+        "a": "CodeBridge's AI code generator automates the process of creating a full-stack application. By providing your project requirements and preferences, you can generate all the necessary code components, including frontend, backend, and database structures."
+    },
+    {
+        "q": "What is the process to generate the whole system?",
+        "a": "Generating the entire system is as simple as defining your project's details and clicking the 'Generate' button. CodeBridge's AI analyzes your specifications and crafts the complete codebase, saving you considerable development time."
+    },
+    {
+        "q": "How can I ensure code quality and accuracy?",
+        "a": "CodeBridge's AI is designed to deliver high-quality code based on industry best practices. The generated code undergoes thorough testing and validation to ensure accuracy and robustness, giving you confidence in your application's foundation."
+    },
+    {
+        "q": "What happens after the code is generated?",
+        "a": "Once the code is generated, you can push it directly to your GitHub repository using the provided integration. This ensures seamless version control and collaboration, making it easy for your team to work together on the project."
+    },
+    {
+        "q": "How do I retrieve the generated code from GitHub?",
+        "a": "After generating and pushing the code to GitHub, you can retrieve it by cloning the repository. Visit your GitHub account, accept the collaborator invitation if needed, and clone the repository using the provided Git clone command."
+    }
+]

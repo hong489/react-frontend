@@ -1,0 +1,38 @@
+[
+    {
+        "q": "What is CodeBridge?",
+        "a": "This tool is an online full-stack code generation platform that allows you to quickly and easily create web applications without having to manually write all the code from scratch. It generates code in multiple programming languages."
+    },
+    {
+        "q": "How does CodeBridge work?",
+        "a": "Simply select your desired programming language, choose the framework and libraries you want to use, and enter your application's requirements. Our tool generates the code for you, saving you time and effort."
+    },
+    {
+        "q": "What programming languages are supported?",
+        "a": "Our tool currently supports JavaScript and Java. More languages and framesworks will be added such as, PHP, Python and C#."
+    },
+    {
+        "q": "Will CodeBridge include mobile development?",
+        "a": "Yes, we are working on adding flutter to develop cross-platform applications, mainly for Android and iOS."
+    },
+    {
+        "q": "Can I customize the generated code?",
+        "a": "Of course! That is the whole point. After generating your project in your Studio, you will be able to push it to Github, where you can download it to your local machine and customize it to suit your specific requirements. You can also add your own code and libraries to the generated code."
+    },
+    {
+        "q": "Is the generated code optimized and secure?",
+        "a": "Yes, the generated code is optimized for performance and security. We use industry-standard best practices and security measures to ensure that the generated code is safe and secure."
+    },
+    {
+        "q": "Is there a trial or free version available?",
+        "a": "Yes, we offer a free version that allows you to generate a limited number of projects. We also offer paid plans with additional features and benefits, such as deployment, support and AI."
+    },
+    {
+        "q": "What kind of support is available?        ",
+        "a": "We offer email support, as well as a knowledge base. We are also working on a community forum where you can find answers to common questions and connect and share work with other users."
+    },
+    {
+        "q": "Does CodeBridge read my code?",
+        "a": "No. CodeBridge is a code generation tool and does not read your code."
+    }
+]
